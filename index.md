@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My HairCut Practice RecordTool
 
-You can use the [editor on GitHub](https://github.com/vsspdr/MyHairPracticeRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is a tool to keep track of your hair cutting exercises to help you improve your skills faster. You can also record how each hairstyle feels about itself, how satisfied you are with it, how it is dyed, whether it is straight or curly. Help you manage your personality better. You can collect the hairstyle that oneself likes, go toward this respect more diligently, let oneself better master this skill.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-- Bulleted
-- List
+We will answer them for you in the first time.
 
-1. Numbered
-2. List
+### Address: sun778297ma@163.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsspdr/MyHairPracticeRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
